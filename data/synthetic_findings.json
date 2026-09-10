@@ -1,0 +1,7 @@
+[
+ {"finding_id":"VULN-001","severity":"critical","owner":"Platform","opened":"2026-06-01","due":"2026-06-15","status":"open","validation_evidence":false},
+ {"finding_id":"VULN-002","severity":"high","owner":"Workplace","opened":"2026-07-01","due":"2026-08-01","status":"remediated","remediated":"2026-07-20","validation_evidence":true},
+ {"finding_id":"VULN-003","severity":"medium","owner":"Apps","opened":"2026-08-01","due":"2026-09-15","status":"open","validation_evidence":false},
+ {"finding_id":"VULN-004","severity":"high","owner":"Platform","opened":"2026-05-10","due":"2026-06-10","status":"risk_accepted","validation_evidence":false},
+ {"finding_id":"VULN-005","severity":"critical","owner":"Apps","opened":"2026-07-15","due":"2026-07-29","status":"remediated","remediated":"2026-08-02","validation_evidence":false}
+]
